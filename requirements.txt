@@ -10,10 +10,11 @@ pyprind
 tqdm
 tensorboard
 moviepy
-shutil
-pickle
+# shutil
+# pickle
 pillow
-sklearn
+scikit-learn
 matplotlib
 lpips
 scikit-image
+dm_control
